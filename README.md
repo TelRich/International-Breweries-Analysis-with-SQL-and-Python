@@ -1,0 +1,1 @@
+[View Notebook](https://nbviewer.org/github/TelRich/International-Breweries-Analysis-with-SQL-and-Python/blob/main/brew.ipynb)
