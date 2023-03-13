@@ -1,0 +1,8 @@
+I can use pandas read sql with the engine connection string.
+To create a new column that is fixed, i used ALTER TABLE and ADD COLUMN to do so.
+
+while populating the new columns, roi and profit didi not populate at first run. Both 
+got populated after rerunning the code twice.
+in order to avoid that, I had to write the formula in full with out using the column name.
+
+Naming columns with title case doesn't work in postgresql

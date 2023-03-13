@@ -1,0 +1,1048 @@
+Sales_ID,Region,Months,Year,Sales_Rep,Brands,Unit_Cost,Unit_Price,Quantity,Country
+10101,Southeast,January,2020,Jardine,trophy,150,200,725,Ghana
+10106,northcentral ,June,2020,Jardine,beta malt,80,150,798,Ghana
+10109,southsouth,September,2020,Morgan,budweiser,250,500,700,Benin
+10112,northcentral ,December,2020,Jones,hero,150,200,902,Nigeria
+10116,northwest,April,2020,Jones,budweiser,250,500,709,Ghana
+10119,Southeast,July,2020,Smith,hero,150,200,996,Benin
+10130,northcentral ,June,2020,Kivell,budweiser,250,500,945,Senegal
+10131,Southeast,July,2020,Jones,castle lite,180,450,794,Ghana
+10133,southsouth,September,2020,Kivell,hero,150,200,1000,Togo
+10139,southsouth,March,2020,Jardine,eagle lager,170,250,784,Benin
+10140,northwest,April,2020,Jardine,hero,150,200,999,Senegal
+10141,northeast ,May,2020,Andrews,beta malt,80,150,894,Ghana
+10150,west,February,2020,Morgan,trophy,150,200,845,Senegal
+10152,northwest,April,2020,Parent,castle lite,180,450,878,Nigeria
+10161,Southeast,January,2020,Parent,hero,150,200,847,Ghana
+10165,northeast ,May,2020,Sorvino,budweiser,250,500,780,Senegal
+10167,Southeast,July,2020,Andrews,eagle lager,170,250,769,Nigeria
+10168,west,August,2020,Howard,hero,150,200,712,Togo
+10173,Southeast,January,2020,Morgan,castle lite,180,450,727,Togo
+10178,northcentral ,June,2020,Thompson,trophy,150,200,946,Togo
+10180,west,August,2020,Jardine,castle lite,180,450,795,Senegal
+10182,northwest,October,2020,Andrews,hero,150,200,773,Nigeria
+10191,Southeast,July,2020,Jardine,grand malt,90,150,902,Ghana
+10192,west,August,2020,Jardine,trophy,150,200,981,Nigeria
+10195,northeast ,November,2020,Gill,eagle lager,170,250,910,Senegal
+10197,Southeast,January,2020,Jones,beta malt,80,150,896,Nigeria
+10202,northcentral ,June,2020,Morgan,eagle lager,170,250,828,Nigeria
+10203,Southeast,July,2020,Howard,hero,150,200,990,Togo
+10205,southsouth,September,2020,Jones,grand malt,90,150,903,Senegal
+10207,northeast ,November,2020,Jones,budweiser,250,500,990,Nigeria
+10211,southsouth,March,2020,Jones,beta malt,80,150,848,Ghana
+10215,Southeast,July,2020,Jones,castle lite,180,450,855,Senegal
+10217,southsouth,September,2020,Howard,hero,150,200,957,Nigeria
+10219,northeast ,November,2020,Jones,grand malt,90,150,710,Benin
+10220,northcentral ,December,2020,Smith,trophy,150,200,917,Senegal
+10223,southsouth,March,2020,Jones,eagle lager,170,250,870,Togo
+10224,northwest,April,2020,Parent,hero,150,200,914,Benin
+10225,northeast ,May,2020,Kivell,beta malt,80,150,763,Senegal
+10228,west,August,2020,Gill,budweiser,250,500,886,Togo
+10231,northeast ,November,2020,Sorvino,hero,150,200,901,Ghana
+10232,northcentral ,December,2020,Jardine,beta malt,80,150,934,Nigeria
+10237,northeast ,May,2020,Kivell,eagle lager,170,250,968,Nigeria
+10238,northcentral ,June,2020,Jones,hero,150,200,791,Togo
+10245,Southeast,January,2020,Andrews,hero,150,200,924,Senegal
+10246,west,February,2020,Jardine,beta malt,80,150,744,Ghana
+10247,southsouth,March,2020,Jardine,grand malt,90,150,754,Nigeria
+10248,northwest,April,2020,Andrews,trophy,150,200,792,Togo
+10254,northwest,October,2020,Jardine,grand malt,90,150,780,Benin
+10255,northeast ,November,2020,Thompson,trophy,150,200,729,Senegal
+10256,northcentral ,December,2020,Jones,budweiser,250,500,909,Ghana
+10259,southsouth,March,2020,Parent,hero,150,200,944,Benin
+10266,northwest,October,2020,Kivell,hero,150,200,792,Ghana
+10267,northeast ,November,2020,Smith,beta malt,80,150,898,Nigeria
+10268,northcentral ,December,2020,Parent,grand malt,90,150,945,Togo
+10269,Southeast,January,2020,Gill,trophy,150,200,814,Benin
+10271,southsouth,March,2020,Jones,castle lite,180,450,829,Ghana
+10274,northcentral ,June,2020,Andrews,beta malt,80,150,803,Benin
+10282,west,February,2020,Sorvino,grand malt,90,150,996,Nigeria
+10283,southsouth,March,2020,Gill,trophy,150,200,870,Togo
+10284,northwest,April,2020,Sorvino,budweiser,250,500,972,Benin
+10289,southsouth,September,2020,Andrews,grand malt,90,150,762,Benin
+10291,northeast ,November,2020,Morgan,budweiser,250,500,902,Ghana
+10301,southsouth,September,2020,Jardine,hero,150,200,939,Ghana
+10305,Southeast,January,2020,Andrews,budweiser,250,500,920,Senegal
+10323,Southeast,July,2020,Morgan,beta malt,80,150,704,Togo
+10325,southsouth,September,2020,Parent,trophy,150,200,710,Senegal
+10328,northcentral ,December,2020,Jones,eagle lager,170,250,706,Togo
+10331,southsouth,March,2020,Parent,grand malt,90,150,760,Ghana
+10332,northwest,April,2020,Kivell,trophy,150,200,872,Nigeria
+10333,northeast ,May,2020,Smith,budweiser,250,500,723,Togo
+10334,northcentral ,June,2020,Parent,castle lite,180,450,913,Benin
+10336,west,August,2020,Smith,hero,150,200,856,Ghana
+10337,southsouth,September,2020,Jones,beta malt,80,150,827,Nigeria
+10339,northeast ,November,2020,Jardine,trophy,150,200,819,Benin
+10346,northcentral ,June,2020,Morgan,trophy,150,200,706,Ghana
+10348,west,August,2020,Sorvino,castle lite,180,450,899,Togo
+10349,southsouth,September,2020,Gill,eagle lager,170,250,738,Benin
+10351,northeast ,November,2020,Thompson,beta malt,80,150,783,Ghana
+10352,northcentral ,December,2020,Andrews,grand malt,90,150,831,Nigeria
+10353,Southeast,January,2020,Jardine,trophy,150,200,869,Togo
+10355,southsouth,March,2020,Andrews,castle lite,180,450,931,Senegal
+10360,west,August,2020,Andrews,trophy,150,200,704,Senegal
+10361,southsouth,September,2020,Jardine,budweiser,250,500,719,Ghana
+10370,northcentral ,June,2020,Morgan,eagle lager,170,250,983,Senegal
+10371,Southeast,July,2020,Jones,hero,150,200,989,Ghana
+10374,northwest,October,2020,Smith,trophy,150,200,857,Benin
+10376,northcentral ,December,2020,Gill,castle lite,180,450,788,Ghana
+10378,west,February,2020,Jones,hero,150,200,865,Togo
+10381,northeast ,May,2020,Andrews,trophy,150,200,948,Ghana
+10383,Southeast,July,2020,Gill,castle lite,180,450,913,Togo
+10385,southsouth,September,2020,Kivell,hero,150,200,717,Senegal
+10386,northwest,October,2020,Jones,beta malt,80,150,862,Ghana
+10389,Southeast,January,2020,Sorvino,budweiser,250,500,807,Benin
+10393,northeast ,May,2020,Andrews,beta malt,80,150,717,Togo
+10398,northwest,October,2020,Morgan,eagle lager,170,250,957,Togo
+10401,Southeast,January,2020,Gill,grand malt,90,150,966,Ghana
+10405,northeast ,May,2020,Jardine,eagle lager,170,250,973,Senegal
+10407,Southeast,July,2020,Andrews,beta malt,80,150,748,Nigeria
+10411,northeast ,November,2020,Jones,castle lite,180,450,997,Ghana
+10412,northcentral ,December,2020,Andrews,eagle lager,170,250,789,Nigeria
+10413,Southeast,January,2020,Jardine,hero,150,200,934,Togo
+10422,northwest,October,2020,Jardine,grand malt,90,150,716,Nigeria
+10426,west,February,2020,Andrews,eagle lager,170,250,929,Ghana
+10429,northeast ,May,2020,Jones,grand malt,90,150,861,Benin
+10441,northeast ,May,2020,Parent,hero,150,200,828,Ghana
+10442,northcentral ,June,2020,Gill,beta malt,80,150,711,Nigeria
+10447,northeast ,November,2020,Andrews,eagle lager,170,250,939,Nigeria
+10453,northeast ,May,2020,Morgan,castle lite,180,450,832,Togo
+10454,northcentral ,June,2020,Kivell,eagle lager,170,250,952,Benin
+10465,northeast ,May,2020,Sorvino,trophy,150,200,888,Senegal
+10468,west,August,2020,Jardine,eagle lager,170,250,843,Togo
+10475,southsouth,March,2020,Smith,eagle lager,170,250,803,Senegal
+10476,northwest,April,2020,Jones,hero,150,200,731,Ghana
+10477,northeast ,May,2020,Morgan,beta malt,80,150,910,Nigeria
+10483,northeast ,November,2020,Gill,hero,150,200,946,Togo
+10486,west,February,2020,Sorvino,trophy,150,200,992,Ghana
+10492,west,August,2020,Kivell,grand malt,90,150,854,Nigeria
+10493,southsouth,September,2020,Jones,trophy,150,200,926,Togo
+10495,northeast ,November,2020,Kivell,castle lite,180,450,883,Senegal
+10496,northcentral ,December,2020,Sorvino,eagle lager,170,250,958,Ghana
+10497,Southeast,January,2020,Gill,hero,150,200,984,Nigeria
+10500,northwest,April,2020,Andrews,trophy,150,200,931,Senegal
+10506,northwest,October,2020,Kivell,grand malt,90,150,982,Ghana
+10507,northeast ,November,2020,Sorvino,trophy,150,200,724,Nigeria
+10510,west,February,2020,Thompson,eagle lager,170,250,712,Senegal
+10513,northeast ,May,2020,Jardine,grand malt,90,150,775,Togo
+10514,northcentral ,June,2020,Andrews,trophy,150,200,820,Benin
+10518,northwest,October,2020,Jones,hero,150,200,888,Togo
+10520,northcentral ,December,2020,Jardine,grand malt,90,150,787,Senegal
+10531,northeast ,November,2020,Sorvino,eagle lager,170,250,950,Ghana
+10540,west,August,2020,Jones,beta malt,80,150,881,Senegal
+10541,southsouth,September,2020,Smith,grand malt,90,150,768,Ghana
+10549,northeast ,May,2020,Gill,trophy,150,200,900,Benin
+10550,northcentral ,June,2020,Smith,budweiser,250,500,810,Senegal
+10551,Southeast,July,2020,Jones,castle lite,180,450,740,Ghana
+10556,northcentral ,December,2020,Gill,trophy,150,200,865,Ghana
+10557,Southeast,January,2020,Gill,budweiser,250,500,902,Nigeria
+10562,northcentral ,June,2020,Sorvino,grand malt,90,150,735,Nigeria
+10567,northeast ,November,2020,Jardine,hero,150,200,721,Nigeria
+10574,northcentral ,June,2020,Andrews,hero,150,200,766,Benin
+10577,southsouth,September,2020,Jones,trophy,150,200,724,Nigeria
+10585,northeast ,May,2020,Jones,budweiser,250,500,778,Senegal
+10588,west,August,2020,Smith,hero,150,200,970,Togo
+10590,northwest,October,2020,Gill,grand malt,90,150,952,Senegal
+10591,northeast ,November,2020,Smith,trophy,150,200,918,Ghana
+10593,Southeast,January,2020,Sorvino,castle lite,180,450,753,Togo
+10600,west,August,2020,Jones,castle lite,180,450,925,Senegal
+10603,northeast ,November,2020,Sorvino,beta malt,80,150,791,Togo
+10606,west,February,2020,Thompson,budweiser,250,500,957,Ghana
+10611,Southeast,July,2020,Jones,grand malt,90,150,763,Ghana
+10615,northeast ,November,2020,Gill,eagle lager,170,250,860,Senegal
+10618,west,February,2020,Andrews,grand malt,90,150,855,Togo
+10620,northwest,April,2020,Jardine,budweiser,250,500,940,Senegal
+10621,northeast ,May,2020,Andrews,castle lite,180,450,847,Ghana
+10623,Southeast,July,2020,Gill,hero,150,200,928,Togo
+10624,west,August,2020,Sorvino,beta malt,80,150,943,Benin
+10628,northcentral ,December,2020,Thompson,castle lite,180,450,940,Togo
+10629,Southeast,January,2020,Jones,eagle lager,170,250,899,Benin
+10631,southsouth,March,2020,Howard,beta malt,80,150,929,Ghana
+10634,northcentral ,June,2020,Smith,budweiser,250,500,720,Benin
+10646,northcentral ,June,2020,Parent,grand malt,90,150,937,Ghana
+10648,west,August,2020,Smith,budweiser,250,500,942,Togo
+10650,northwest,October,2020,Morgan,eagle lager,170,250,958,Senegal
+10654,west,February,2020,Smith,trophy,150,200,917,Benin
+10655,southsouth,March,2020,Parent,budweiser,250,500,914,Senegal
+10661,southsouth,September,2020,Andrews,trophy,150,200,977,Ghana
+10662,northwest,October,2020,Howard,budweiser,250,500,948,Nigeria
+10665,Southeast,January,2020,Kivell,hero,150,200,943,Senegal
+10666,west,February,2020,Jones,beta malt,80,150,901,Ghana
+10667,southsouth,March,2020,Morgan,grand malt,90,150,907,Nigeria
+10670,northcentral ,June,2020,Gill,castle lite,180,450,919,Senegal
+10679,southsouth,March,2020,Sorvino,hero,150,200,859,Benin
+10681,northeast ,May,2020,Andrews,grand malt,90,150,716,Ghana
+10684,west,August,2020,Jones,castle lite,180,450,947,Benin
+10692,northwest,April,2020,Jones,eagle lager,170,250,783,Nigeria
+10696,west,August,2020,Parent,trophy,150,200,814,Ghana
+10699,northeast ,November,2020,Jones,eagle lager,170,250,899,Benin
+10700,northcentral ,December,2020,Sorvino,hero,150,200,897,Senegal
+10706,northcentral ,June,2020,Kivell,eagle lager,170,250,755,Ghana
+10709,southsouth,September,2020,Kivell,grand malt,90,150,705,Benin
+10720,west,August,2020,Kivell,eagle lager,170,250,851,Senegal
+10723,northeast ,November,2020,Sorvino,grand malt,90,150,776,Togo
+10730,northcentral ,June,2020,Gill,grand malt,90,150,719,Senegal
+10732,west,August,2020,Jones,budweiser,250,500,884,Nigeria
+10737,Southeast,January,2020,Morgan,grand malt,90,150,812,Nigeria
+10740,northwest,April,2020,Jones,castle lite,180,450,703,Senegal
+10741,northeast ,May,2020,Smith,eagle lager,170,250,834,Ghana
+10742,northcentral ,June,2020,Jones,hero,150,200,843,Nigeria
+10743,Southeast,July,2020,Jardine,beta malt,80,150,749,Togo
+10746,northwest,October,2020,Jones,budweiser,250,500,816,Ghana
+10752,northwest,April,2020,Howard,trophy,150,200,816,Nigeria
+10755,Southeast,July,2020,Smith,eagle lager,170,250,732,Senegal
+10758,northwest,October,2020,Jones,grand malt,90,150,907,Togo
+10759,northeast ,November,2020,Parent,trophy,150,200,709,Benin
+10762,west,February,2020,Parent,eagle lager,170,250,700,Nigeria
+10765,northeast ,May,2020,Jones,grand malt,90,150,986,Senegal
+10770,northwest,October,2020,Gill,hero,150,200,980,Senegal
+10771,northeast ,November,2020,Gill,beta malt,80,150,755,Ghana
+10772,northcentral ,December,2020,Kivell,grand malt,90,150,804,Nigeria
+10775,southsouth,March,2020,Kivell,castle lite,180,450,929,Senegal
+10780,west,August,2020,Andrews,trophy,150,200,854,Senegal
+10782,northwest,October,2020,Jardine,castle lite,180,450,927,Nigeria
+10783,northeast ,November,2020,Andrews,eagle lager,170,250,988,Togo
+10788,northwest,April,2020,Andrews,budweiser,250,500,826,Togo
+10792,west,August,2020,Morgan,beta malt,80,150,902,Nigeria
+10793,southsouth,September,2020,Howard,grand malt,90,150,888,Togo
+10794,northwest,October,2020,Parent,trophy,150,200,893,Benin
+10800,northwest,April,2020,Parent,grand malt,90,150,956,Senegal
+10803,Southeast,July,2020,Parent,castle lite,180,450,735,Togo
+10810,west,February,2020,Howard,castle lite,180,450,997,Senegal
+10811,southsouth,March,2020,Gill,eagle lager,170,250,770,Ghana
+10813,northeast ,May,2020,Kivell,beta malt,80,150,719,Togo
+10820,northcentral ,December,2020,Thompson,beta malt,80,150,929,Senegal
+10821,Southeast,January,2020,Andrews,grand malt,90,150,785,Ghana
+10823,southsouth,March,2020,Jardine,budweiser,250,500,757,Togo
+10824,northwest,April,2020,Andrews,castle lite,180,450,810,Benin
+10828,west,August,2020,Sorvino,grand malt,90,150,958,Togo
+10847,southsouth,March,2020,Jones,hero,150,200,932,Nigeria
+10848,northwest,April,2020,Smith,beta malt,80,150,893,Togo
+10849,northeast ,May,2020,Jones,grand malt,90,150,824,Benin
+10850,northcentral ,June,2020,Jardine,trophy,150,200,931,Senegal
+10851,Southeast,July,2020,Gill,budweiser,250,500,783,Ghana
+10855,northeast ,November,2020,Jardine,beta malt,80,150,934,Senegal
+10861,northeast ,May,2020,Jones,hero,150,200,934,Ghana
+10869,Southeast,January,2020,Parent,beta malt,80,150,866,Benin
+10874,northcentral ,June,2020,Jardine,eagle lager,170,250,977,Benin
+10877,southsouth,September,2020,Gill,grand malt,90,150,716,Nigeria
+10881,Southeast,January,2020,Morgan,eagle lager,170,250,704,Ghana
+10884,northwest,April,2020,Gill,grand malt,90,150,928,Benin
+10885,northeast ,May,2020,Sorvino,trophy,150,200,903,Senegal
+10891,northeast ,November,2020,Jardine,grand malt,90,150,907,Ghana
+10892,northcentral ,December,2020,Gill,trophy,150,200,848,Nigeria
+10895,southsouth,March,2020,Andrews,eagle lager,170,250,781,Senegal
+10898,northcentral ,June,2020,Jones,grand malt,90,150,786,Togo
+10908,northwest,April,2020,Kivell,castle lite,180,450,735,Togo
+10911,Southeast,July,2020,Gill,beta malt,80,150,978,Ghana
+10914,northwest,October,2020,Sorvino,budweiser,250,500,835,Benin
+10917,Southeast,January,2020,Howard,hero,150,200,925,Nigeria
+10919,southsouth,March,2020,Gill,grand malt,90,150,796,Benin
+10920,northwest,April,2020,Kivell,trophy,150,200,741,Senegal
+10923,Southeast,July,2020,Kivell,eagle lager,170,250,742,Togo
+10925,southsouth,September,2020,Gill,beta malt,80,150,983,Senegal
+10928,northcentral ,December,2020,Andrews,budweiser,250,500,768,Togo
+10929,Southeast,January,2020,Jardine,castle lite,180,450,786,Benin
+10930,west,February,2020,Jardine,eagle lager,170,250,856,Senegal
+10932,northwest,April,2020,Jones,beta malt,80,150,802,Nigeria
+10936,west,August,2020,Gill,castle lite,180,450,923,Ghana
+10940,northcentral ,December,2020,Jardine,grand malt,90,150,936,Senegal
+10941,Southeast,January,2020,Jardine,trophy,150,200,924,Ghana
+10949,southsouth,September,2020,Thompson,budweiser,250,500,999,Benin
+10953,Southeast,January,2020,Parent,beta malt,80,150,948,Togo
+10954,west,February,2020,Jones,grand malt,90,150,919,Benin
+10956,northwest,April,2020,Jones,budweiser,250,500,784,Ghana
+10958,northcentral ,June,2020,Gill,eagle lager,170,250,948,Togo
+10959,Southeast,July,2020,Sorvino,hero,150,200,787,Benin
+10964,northcentral ,December,2020,Jones,castle lite,180,450,887,Benin
+10965,Southeast,January,2020,Morgan,eagle lager,170,250,729,Senegal
+10966,west,February,2020,Howard,hero,150,200,836,Ghana
+10968,northwest,April,2020,Jones,grand malt,90,150,791,Togo
+10971,Southeast,July,2020,Morgan,castle lite,180,450,939,Ghana
+10976,northcentral ,December,2020,Parent,trophy,150,200,927,Ghana
+10977,Southeast,January,2020,Gill,budweiser,250,500,919,Nigeria
+10990,west,February,2020,Sorvino,trophy,150,200,706,Senegal
+10994,northcentral ,June,2020,Andrews,hero,150,200,973,Benin
+10996,west,August,2020,Jardine,grand malt,90,150,873,Ghana
+11001,Southeast,January,2020,Jones,hero,150,200,952,Ghana
+11007,Southeast,July,2020,Howard,eagle lager,170,250,984,Nigeria
+11009,southsouth,September,2020,Jones,beta malt,80,150,849,Benin
+11011,northeast ,November,2020,Jones,trophy,150,200,842,Ghana
+11015,southsouth,March,2020,Kivell,hero,150,200,770,Senegal
+11018,northcentral ,June,2020,Gill,trophy,150,200,793,Togo
+11019,Southeast,July,2020,Smith,budweiser,250,500,893,Benin
+11022,northwest,October,2020,Jardine,hero,150,200,851,Nigeria
+11027,southsouth,March,2020,Kivell,castle lite,180,450,847,Nigeria
+11030,northcentral ,June,2020,Kivell,beta malt,80,150,895,Senegal
+11031,Southeast,July,2020,Sorvino,grand malt,90,150,981,Ghana
+11034,northwest,October,2020,Thompson,castle lite,180,450,861,Benin
+11036,northcentral ,December,2020,Jardine,hero,150,200,706,Ghana
+11037,Southeast,January,2020,Jardine,beta malt,80,150,761,Nigeria
+11039,southsouth,March,2020,Jones,trophy,150,200,914,Benin
+11045,southsouth,September,2020,Thompson,grand malt,90,150,941,Senegal
+11051,southsouth,March,2020,Gill,beta malt,80,150,792,Ghana
+11057,southsouth,September,2020,Jones,hero,150,200,871,Nigeria
+11059,northeast ,November,2020,Howard,grand malt,90,150,861,Benin
+11060,northcentral ,December,2020,Parent,trophy,150,200,711,Senegal
+11061,Southeast,January,2020,Jones,budweiser,250,500,834,Ghana
+11063,southsouth,March,2020,Jones,eagle lager,170,250,858,Togo
+11076,northwest,April,2020,Smith,castle lite,180,450,779,Ghana
+11077,northeast ,May,2020,Jones,eagle lager,170,250,706,Nigeria
+11080,west,August,2020,Parent,grand malt,90,150,991,Senegal
+11083,northeast ,November,2020,Parent,castle lite,180,450,831,Togo
+11086,west,February,2020,Jones,beta malt,80,150,904,Ghana
+11089,northeast ,May,2020,Andrews,budweiser,250,500,912,Benin
+11091,Southeast,July,2020,Gill,eagle lager,170,250,914,Ghana
+11092,west,August,2020,Gill,hero,150,200,863,Nigeria
+11094,northwest,October,2020,Jones,grand malt,90,150,859,Benin
+11097,Southeast,January,2020,Sorvino,castle lite,180,450,736,Nigeria
+11102,northcentral ,June,2020,Jardine,trophy,150,200,838,Nigeria
+11103,Southeast,July,2020,Jardine,budweiser,250,500,943,Togo
+11104,west,August,2020,Andrews,castle lite,180,450,771,Benin
+11117,southsouth,September,2020,Smith,budweiser,250,500,847,Nigeria
+11118,northwest,October,2020,Jones,castle lite,180,450,968,Togo
+11125,northeast ,May,2020,Gill,castle lite,180,450,900,Senegal
+11126,northcentral ,June,2020,Smith,eagle lager,170,250,938,Ghana
+11129,southsouth,September,2020,Jardine,grand malt,90,150,900,Benin
+11131,northeast ,November,2020,Howard,budweiser,250,500,700,Ghana
+11133,Southeast,January,2020,Gill,eagle lager,170,250,972,Togo
+11135,southsouth,March,2020,Jones,beta malt,80,150,811,Senegal
+11136,northwest,April,2020,Morgan,grand malt,90,150,963,Ghana
+11138,northcentral ,June,2020,Sorvino,budweiser,250,500,839,Togo
+11141,southsouth,September,2020,Thompson,hero,150,200,903,Ghana
+11145,Southeast,January,2020,Andrews,budweiser,250,500,816,Senegal
+11147,southsouth,March,2020,Morgan,eagle lager,170,250,935,Nigeria
+10102,west,February,2019,Gill,budweiser,250,500,815,Nigeria
+10103,southsouth,March,2019,Sorvino,castle lite,180,450,937,Togo
+10104,northwest,April,2019,Jones,eagle lager,170,250,765,Benin
+10108,west,August,2019,Jones,trophy,150,200,812,Togo
+10113,Southeast,January,2019,Smith,beta malt,80,150,731,Togo
+10115,southsouth,March,2019,Morgan,trophy,150,200,939,Senegal
+10118,northcentral ,June,2019,Kivell,eagle lager,170,250,910,Togo
+10122,northwest,October,2019,Smith,trophy,150,200,860,Nigeria
+10125,Southeast,January,2019,Jardine,eagle lager,170,250,715,Senegal
+10126,west,February,2019,Andrews,hero,150,200,999,Ghana
+10128,northwest,April,2019,Gill,grand malt,90,150,920,Togo
+10134,northwest,October,2019,Sorvino,beta malt,80,150,804,Benin
+10138,west,February,2019,Andrews,castle lite,180,450,950,Togo
+10143,Southeast,July,2019,Gill,trophy,150,200,779,Togo
+10145,southsouth,September,2019,Jones,castle lite,180,450,801,Senegal
+10149,Southeast,January,2019,Jones,grand malt,90,150,781,Benin
+10151,southsouth,March,2019,Howard,budweiser,250,500,719,Ghana
+10153,northeast ,May,2019,Jones,eagle lager,170,250,832,Togo
+10155,Southeast,July,2019,Jones,beta malt,80,150,726,Senegal
+10157,southsouth,September,2019,Jones,trophy,150,200,920,Nigeria
+10159,northeast ,November,2019,Kivell,castle lite,180,450,872,Benin
+10162,west,February,2019,Gill,beta malt,80,150,931,Nigeria
+10170,northwest,October,2019,Gill,grand malt,90,150,940,Senegal
+10171,northeast ,November,2019,Kivell,trophy,150,200,948,Ghana
+10172,northcentral ,December,2019,Jones,budweiser,250,500,869,Nigeria
+10174,west,February,2019,Kivell,eagle lager,170,250,833,Benin
+10175,southsouth,March,2019,Sorvino,hero,150,200,974,Senegal
+10181,southsouth,September,2019,Jardine,eagle lager,170,250,701,Ghana
+10183,northeast ,November,2019,Jones,beta malt,80,150,801,Togo
+10185,Southeast,January,2019,Kivell,trophy,150,200,739,Senegal
+10186,west,February,2019,Sorvino,budweiser,250,500,704,Ghana
+10187,southsouth,March,2019,Gill,castle lite,180,450,879,Nigeria
+10189,northeast ,May,2019,Thompson,hero,150,200,820,Benin
+10190,northcentral ,June,2019,Andrews,beta malt,80,150,869,Senegal
+10196,northcentral ,December,2019,Sorvino,hero,150,200,959,Ghana
+10208,northcentral ,December,2019,Jardine,castle lite,180,450,878,Togo
+10214,northcentral ,June,2019,Thompson,budweiser,250,500,704,Benin
+10216,west,August,2019,Morgan,eagle lager,170,250,971,Ghana
+10222,west,February,2019,Morgan,castle lite,180,450,768,Nigeria
+10227,Southeast,July,2019,Parent,trophy,150,200,810,Nigeria
+10229,southsouth,September,2019,Smith,castle lite,180,450,984,Benin
+10234,west,February,2019,Howard,trophy,150,200,840,Benin
+10236,northwest,April,2019,Gill,castle lite,180,450,832,Ghana
+10239,Southeast,July,2019,Morgan,beta malt,80,150,774,Benin
+10241,southsouth,September,2019,Sorvino,trophy,150,200,881,Ghana
+10243,northeast ,November,2019,Sorvino,castle lite,180,450,733,Togo
+10253,southsouth,September,2019,Andrews,beta malt,80,150,930,Togo
+10257,Southeast,January,2019,Morgan,castle lite,180,450,961,Nigeria
+10258,west,February,2019,Howard,eagle lager,170,250,729,Togo
+10261,northeast ,May,2019,Smith,grand malt,90,150,763,Ghana
+10263,Southeast,July,2019,Morgan,budweiser,250,500,854,Togo
+10264,west,August,2019,Jones,castle lite,180,450,727,Benin
+10265,southsouth,September,2019,Parent,eagle lager,170,250,991,Senegal
+10270,west,February,2019,Smith,budweiser,250,500,863,Senegal
+10273,northeast ,May,2019,Jardine,hero,150,200,961,Togo
+10276,west,August,2019,Gill,trophy,150,200,750,Ghana
+10278,northwest,October,2019,Kivell,castle lite,180,450,710,Togo
+10280,northcentral ,December,2019,Morgan,hero,150,200,777,Senegal
+10285,northeast ,May,2019,Thompson,castle lite,180,450,989,Senegal
+10286,northcentral ,June,2019,Andrews,eagle lager,170,250,936,Ghana
+10288,west,August,2019,Jardine,beta malt,80,150,947,Togo
+10292,northcentral ,December,2019,Kivell,castle lite,180,450,840,Nigeria
+10294,west,February,2019,Gill,hero,150,200,934,Benin
+10296,northwest,April,2019,Thompson,grand malt,90,150,729,Ghana
+10298,northcentral ,June,2019,Jardine,budweiser,250,500,843,Togo
+10300,west,August,2019,Andrews,eagle lager,170,250,733,Senegal
+10303,northeast ,November,2019,Sorvino,grand malt,90,150,874,Togo
+10304,northcentral ,December,2019,Jones,trophy,150,200,764,Benin
+10309,northeast ,May,2019,Morgan,beta malt,80,150,867,Benin
+10312,west,August,2019,Jones,budweiser,250,500,937,Nigeria
+10314,northwest,October,2019,Jones,eagle lager,170,250,736,Benin
+10318,west,February,2019,Jones,trophy,150,200,912,Togo
+10322,northcentral ,June,2019,Jones,hero,150,200,910,Nigeria
+10324,west,August,2019,Howard,grand malt,90,150,824,Benin
+10326,northwest,October,2019,Jones,budweiser,250,500,913,Ghana
+10327,northeast ,November,2019,Smith,castle lite,180,450,983,Nigeria
+10329,Southeast,January,2019,Morgan,hero,150,200,819,Benin
+10330,west,February,2019,Jones,beta malt,80,150,762,Senegal
+10340,northcentral ,December,2019,Andrews,budweiser,250,500,882,Senegal
+10342,west,February,2019,Gill,eagle lager,170,250,922,Nigeria
+10344,northwest,April,2019,Kivell,beta malt,80,150,859,Benin
+10347,Southeast,July,2019,Kivell,budweiser,250,500,702,Nigeria
+10358,northcentral ,June,2019,Sorvino,beta malt,80,150,826,Togo
+10359,Southeast,July,2019,Jones,grand malt,90,150,907,Benin
+10362,northwest,October,2019,Thompson,castle lite,180,450,718,Nigeria
+10366,west,February,2019,Parent,grand malt,90,150,744,Ghana
+10368,northwest,April,2019,Smith,budweiser,250,500,801,Togo
+10369,northeast ,May,2019,Jones,castle lite,180,450,720,Benin
+10372,west,August,2019,Parent,beta malt,80,150,996,Nigeria
+10375,northeast ,November,2019,Parent,budweiser,250,500,928,Senegal
+10379,southsouth,March,2019,Sorvino,beta malt,80,150,798,Benin
+10380,northwest,April,2019,Jardine,grand malt,90,150,728,Senegal
+10384,west,August,2019,Gill,eagle lager,170,250,711,Benin
+10388,northcentral ,December,2019,Kivell,trophy,150,200,962,Togo
+10395,Southeast,July,2019,Jardine,trophy,150,200,930,Senegal
+10396,west,August,2019,Andrews,budweiser,250,500,959,Ghana
+10399,northeast ,November,2019,Kivell,hero,150,200,958,Benin
+10400,northcentral ,December,2019,Sorvino,beta malt,80,150,784,Senegal
+10402,west,February,2019,Sorvino,trophy,150,200,784,Nigeria
+10404,northwest,April,2019,Andrews,castle lite,180,450,951,Benin
+10418,northcentral ,June,2019,Parent,castle lite,180,450,987,Togo
+10419,Southeast,July,2019,Jones,eagle lager,170,250,772,Benin
+10420,west,August,2019,Smith,hero,150,200,760,Senegal
+10423,northeast ,November,2019,Gill,trophy,150,200,775,Togo
+10427,southsouth,March,2019,Jardine,hero,150,200,759,Nigeria
+10430,northcentral ,June,2019,Morgan,trophy,150,200,790,Senegal
+10436,northcentral ,December,2019,Morgan,grand malt,90,150,761,Ghana
+10437,Southeast,January,2019,Jones,trophy,150,200,989,Nigeria
+10438,west,February,2019,Parent,budweiser,250,500,824,Togo
+10439,southsouth,March,2019,Kivell,castle lite,180,450,775,Benin
+10443,Southeast,July,2019,Smith,grand malt,90,150,817,Togo
+10444,west,August,2019,Jones,trophy,150,200,829,Benin
+10445,southsouth,September,2019,Sorvino,budweiser,250,500,872,Senegal
+10446,northwest,October,2019,Jardine,castle lite,180,450,715,Ghana
+10449,Southeast,January,2019,Gill,beta malt,80,150,736,Benin
+10456,west,August,2019,Gill,beta malt,80,150,879,Ghana
+10457,southsouth,September,2019,Sorvino,grand malt,90,150,705,Nigeria
+10458,northwest,October,2019,Thompson,trophy,150,200,878,Togo
+10459,northeast ,November,2019,Andrews,budweiser,250,500,903,Benin
+10460,northcentral ,December,2019,Jardine,castle lite,180,450,791,Senegal
+10461,Southeast,January,2019,Jardine,eagle lager,170,250,895,Ghana
+10462,west,February,2019,Andrews,hero,150,200,759,Nigeria
+10466,northcentral ,June,2019,Jones,budweiser,250,500,849,Ghana
+10467,Southeast,July,2019,Andrews,castle lite,180,450,736,Nigeria
+10469,southsouth,September,2019,Thompson,hero,150,200,999,Benin
+10470,northwest,October,2019,Jones,beta malt,80,150,996,Senegal
+10473,Southeast,January,2019,Parent,budweiser,250,500,827,Togo
+10474,west,February,2019,Jones,castle lite,180,450,755,Benin
+10485,Southeast,January,2019,Jones,grand malt,90,150,960,Senegal
+10488,northwest,April,2019,Andrews,castle lite,180,450,842,Togo
+10489,northeast ,May,2019,Howard,eagle lager,170,250,750,Benin
+10490,northcentral ,June,2019,Gill,hero,150,200,796,Senegal
+10491,Southeast,July,2019,Gill,beta malt,80,150,944,Ghana
+10501,northeast ,May,2019,Jardine,budweiser,250,500,718,Ghana
+10502,northcentral ,June,2019,Jardine,castle lite,180,450,776,Nigeria
+10503,Southeast,July,2019,Andrews,eagle lager,170,250,836,Togo
+10508,northcentral ,December,2019,Gill,budweiser,250,500,906,Togo
+10509,Southeast,January,2019,Sorvino,castle lite,180,450,907,Benin
+10511,southsouth,March,2019,Andrews,hero,150,200,859,Ghana
+10512,northwest,April,2019,Jardine,beta malt,80,150,770,Nigeria
+10515,Southeast,July,2019,Jardine,budweiser,250,500,833,Senegal
+10521,Southeast,January,2019,Thompson,trophy,150,200,804,Ghana
+10522,west,February,2019,Jones,budweiser,250,500,986,Nigeria
+10523,southsouth,March,2019,Morgan,castle lite,180,450,856,Togo
+10524,northwest,April,2019,Howard,eagle lager,170,250,835,Benin
+10525,northeast ,May,2019,Parent,hero,150,200,938,Senegal
+10526,northcentral ,June,2019,Jones,beta malt,80,150,719,Ghana
+10528,west,August,2019,Jones,trophy,150,200,885,Togo
+10529,southsouth,September,2019,Jardine,budweiser,250,500,943,Benin
+10533,Southeast,January,2019,Andrews,beta malt,80,150,889,Togo
+10534,west,February,2019,Jardine,grand malt,90,150,939,Benin
+10535,southsouth,March,2019,Thompson,trophy,150,200,950,Senegal
+10536,northwest,April,2019,Jones,budweiser,250,500,745,Ghana
+10542,northwest,October,2019,Jones,trophy,150,200,844,Nigeria
+10544,northcentral ,December,2019,Jones,castle lite,180,450,898,Benin
+10545,Southeast,January,2019,Parent,eagle lager,170,250,818,Senegal
+10546,west,February,2019,Kivell,hero,150,200,707,Ghana
+10548,northwest,April,2019,Parent,grand malt,90,150,991,Togo
+10553,southsouth,September,2019,Jardine,hero,150,200,824,Togo
+10555,northeast ,November,2019,Howard,grand malt,90,150,819,Senegal
+10559,southsouth,March,2019,Jones,eagle lager,170,250,916,Benin
+10561,northeast ,May,2019,Kivell,beta malt,80,150,734,Ghana
+10564,west,August,2019,Sorvino,budweiser,250,500,798,Benin
+10568,northcentral ,December,2019,Jardine,beta malt,80,150,709,Togo
+10570,west,February,2019,Jardine,trophy,150,200,875,Senegal
+10573,northeast ,May,2019,Jones,eagle lager,170,250,931,Togo
+10575,Southeast,July,2019,Jardine,beta malt,80,150,746,Senegal
+10578,northwest,October,2019,Morgan,budweiser,250,500,887,Togo
+10580,northcentral ,December,2019,Parent,eagle lager,170,250,930,Senegal
+10582,west,February,2019,Smith,beta malt,80,150,853,Nigeria
+10583,southsouth,March,2019,Jones,grand malt,90,150,794,Togo
+10584,northwest,April,2019,Morgan,trophy,150,200,974,Benin
+10586,northcentral ,June,2019,Parent,castle lite,180,450,939,Ghana
+10592,northcentral ,December,2019,Jones,budweiser,250,500,934,Nigeria
+10594,west,February,2019,Jardine,eagle lager,170,250,740,Benin
+10595,southsouth,March,2019,Andrews,hero,150,200,829,Senegal
+10596,northwest,April,2019,Howard,beta malt,80,150,977,Ghana
+10597,northeast ,May,2019,Gill,grand malt,90,150,968,Nigeria
+10599,Southeast,July,2019,Kivell,budweiser,250,500,926,Benin
+10604,northcentral ,December,2019,Gill,grand malt,90,150,702,Benin
+10608,northwest,April,2019,Jardine,eagle lager,170,250,776,Togo
+10609,northeast ,May,2019,Jardine,hero,150,200,998,Benin
+10613,southsouth,September,2019,Kivell,budweiser,250,500,721,Togo
+10619,southsouth,March,2019,Jardine,trophy,150,200,715,Benin
+10625,southsouth,September,2019,Jones,grand malt,90,150,716,Senegal
+10626,northwest,October,2019,Andrews,trophy,150,200,757,Ghana
+10630,west,February,2019,Morgan,hero,150,200,907,Senegal
+10632,northwest,April,2019,Parent,grand malt,90,150,790,Nigeria
+10633,northeast ,May,2019,Jones,trophy,150,200,939,Togo
+10635,Southeast,July,2019,Jones,castle lite,180,450,745,Senegal
+10637,southsouth,September,2019,Gill,hero,150,200,937,Nigeria
+10638,northwest,October,2019,Sorvino,beta malt,80,150,874,Togo
+10639,northeast ,November,2019,Jones,grand malt,90,150,822,Benin
+10641,Southeast,January,2019,Jardine,budweiser,250,500,759,Ghana
+10642,west,February,2019,Thompson,castle lite,180,450,877,Nigeria
+10644,northwest,April,2019,Morgan,hero,150,200,763,Benin
+10645,northeast ,May,2019,Howard,beta malt,80,150,793,Senegal
+10647,Southeast,July,2019,Jones,trophy,150,200,865,Nigeria
+10651,northeast ,November,2019,Jones,hero,150,200,869,Ghana
+10652,northcentral ,December,2019,Parent,beta malt,80,150,750,Nigeria
+10656,northwest,April,2019,Gill,castle lite,180,450,817,Ghana
+10657,northeast ,May,2019,Smith,eagle lager,170,250,913,Nigeria
+10658,northcentral ,June,2019,Jones,hero,150,200,705,Togo
+10668,northwest,April,2019,Kivell,trophy,150,200,755,Togo
+10673,southsouth,September,2019,Andrews,beta malt,80,150,798,Togo
+10674,northwest,October,2019,Jardine,grand malt,90,150,811,Benin
+10675,northeast ,November,2019,Jardine,trophy,150,200,912,Senegal
+10677,Southeast,January,2019,Jardine,castle lite,180,450,953,Nigeria
+10678,west,February,2019,Gill,eagle lager,170,250,908,Togo
+10683,Southeast,July,2019,Thompson,budweiser,250,500,913,Togo
+10685,southsouth,September,2019,Morgan,eagle lager,170,250,743,Senegal
+10686,northwest,October,2019,Howard,hero,150,200,788,Ghana
+10688,northcentral ,December,2019,Jones,grand malt,90,150,784,Togo
+10691,southsouth,March,2019,Morgan,castle lite,180,450,889,Ghana
+10694,northcentral ,June,2019,Kivell,beta malt,80,150,840,Benin
+10697,southsouth,September,2019,Gill,budweiser,250,500,878,Nigeria
+10698,northwest,October,2019,Smith,castle lite,180,450,819,Togo
+10702,west,February,2019,Andrews,grand malt,90,150,781,Nigeria
+10703,southsouth,March,2019,Howard,trophy,150,200,911,Togo
+10704,northwest,April,2019,Gill,budweiser,250,500,730,Benin
+10707,Southeast,July,2019,Jones,hero,150,200,981,Nigeria
+10708,west,August,2019,Morgan,beta malt,80,150,914,Togo
+10710,northwest,October,2019,Sorvino,trophy,150,200,774,Senegal
+10712,northcentral ,December,2019,Sorvino,castle lite,180,450,807,Nigeria
+10713,Southeast,January,2019,Thompson,eagle lager,170,250,877,Togo
+10726,west,February,2019,Jardine,castle lite,180,450,787,Ghana
+10727,southsouth,March,2019,Jardine,eagle lager,170,250,901,Nigeria
+10728,northwest,April,2019,Andrews,hero,150,200,736,Togo
+10735,northeast ,November,2019,Thompson,hero,150,200,830,Senegal
+10736,northcentral ,December,2019,Jones,beta malt,80,150,995,Ghana
+10738,west,February,2019,Howard,trophy,150,200,993,Togo
+10748,northcentral ,December,2019,Jardine,eagle lager,170,250,702,Togo
+10749,Southeast,January,2019,Thompson,hero,150,200,830,Benin
+10750,west,February,2019,Jones,beta malt,80,150,710,Senegal
+10751,southsouth,March,2019,Morgan,grand malt,90,150,708,Ghana
+10756,west,August,2019,Jones,hero,150,200,881,Ghana
+10763,southsouth,March,2019,Gill,hero,150,200,928,Togo
+10764,northwest,April,2019,Smith,beta malt,80,150,737,Benin
+10766,northcentral ,June,2019,Sorvino,trophy,150,200,733,Ghana
+10776,northwest,April,2019,Sorvino,eagle lager,170,250,938,Ghana
+10777,northeast ,May,2019,Gill,hero,150,200,776,Nigeria
+10778,northcentral ,June,2019,Sorvino,beta malt,80,150,830,Togo
+10784,northcentral ,December,2019,Jardine,hero,150,200,864,Benin
+10786,west,February,2019,Sorvino,grand malt,90,150,817,Ghana
+10787,southsouth,March,2019,Jones,trophy,150,200,980,Nigeria
+10790,northcentral ,June,2019,Thompson,eagle lager,170,250,737,Senegal
+10791,Southeast,July,2019,Jones,hero,150,200,773,Ghana
+10799,southsouth,March,2019,Jones,beta malt,80,150,940,Benin
+10801,northeast ,May,2019,Kivell,trophy,150,200,908,Ghana
+10802,northcentral ,June,2019,Smith,budweiser,250,500,866,Nigeria
+10805,southsouth,September,2019,Smith,hero,150,200,976,Senegal
+10814,northcentral ,June,2019,Jones,grand malt,90,150,933,Benin
+10816,west,August,2019,Kivell,budweiser,250,500,818,Ghana
+10819,northeast ,November,2019,Sorvino,hero,150,200,787,Benin
+10826,northcentral ,June,2019,Morgan,hero,150,200,820,Ghana
+10827,Southeast,July,2019,Kivell,beta malt,80,150,874,Nigeria
+10829,southsouth,September,2019,Gill,trophy,150,200,742,Benin
+10830,northwest,October,2019,Sorvino,budweiser,250,500,973,Senegal
+10833,Southeast,January,2019,Jardine,hero,150,200,938,Togo
+10834,west,February,2019,Jardine,beta malt,80,150,777,Benin
+10835,southsouth,March,2019,Andrews,grand malt,90,150,855,Senegal
+10837,northeast ,May,2019,Gill,budweiser,250,500,922,Nigeria
+10838,northcentral ,June,2019,Sorvino,castle lite,180,450,856,Togo
+10839,Southeast,July,2019,Jones,eagle lager,170,250,852,Benin
+10840,west,August,2019,Andrews,hero,150,200,981,Senegal
+10842,northwest,October,2019,Thompson,grand malt,90,150,805,Nigeria
+10843,northeast ,November,2019,Jones,trophy,150,200,932,Togo
+10844,northcentral ,December,2019,Morgan,budweiser,250,500,891,Benin
+10845,Southeast,January,2019,Howard,castle lite,180,450,803,Senegal
+10857,Southeast,January,2019,Jones,trophy,150,200,986,Nigeria
+10860,northwest,April,2019,Parent,eagle lager,170,250,859,Senegal
+10864,west,August,2019,Morgan,trophy,150,200,991,Benin
+10865,southsouth,September,2019,Jones,budweiser,250,500,738,Senegal
+10866,northwest,October,2019,Parent,castle lite,180,450,849,Ghana
+10870,west,February,2019,Gill,grand malt,90,150,904,Senegal
+10871,southsouth,March,2019,Smith,trophy,150,200,977,Ghana
+10879,northeast ,November,2019,Kivell,budweiser,250,500,729,Benin
+10882,west,February,2019,Kivell,hero,150,200,823,Nigeria
+10886,northcentral ,June,2019,Thompson,budweiser,250,500,916,Ghana
+10887,Southeast,July,2019,Andrews,castle lite,180,450,988,Nigeria
+10889,southsouth,September,2019,Jardine,hero,150,200,947,Benin
+10894,west,February,2019,Jones,castle lite,180,450,706,Benin
+10899,Southeast,July,2019,Morgan,trophy,150,200,1000,Benin
+10901,southsouth,September,2019,Parent,castle lite,180,450,839,Ghana
+10904,northcentral ,December,2019,Jones,beta malt,80,150,864,Benin
+10906,west,February,2019,Jones,trophy,150,200,902,Ghana
+10909,northeast ,May,2019,Smith,eagle lager,170,250,890,Benin
+10910,northcentral ,June,2019,Parent,hero,150,200,969,Senegal
+10915,northeast ,November,2019,Jardine,castle lite,180,450,992,Senegal
+10921,northeast ,May,2019,Jones,budweiser,250,500,827,Ghana
+10922,northcentral ,June,2019,Morgan,castle lite,180,450,849,Nigeria
+10927,northeast ,November,2019,Thompson,trophy,150,200,854,Nigeria
+10931,southsouth,March,2019,Andrews,hero,150,200,919,Ghana
+10934,northcentral ,June,2019,Kivell,trophy,150,200,993,Benin
+10937,southsouth,September,2019,Sorvino,eagle lager,170,250,990,Nigeria
+10939,northeast ,November,2019,Andrews,beta malt,80,150,836,Benin
+10943,southsouth,March,2019,Jardine,castle lite,180,450,862,Togo
+10944,northwest,April,2019,Gill,eagle lager,170,250,963,Benin
+10947,Southeast,July,2019,Andrews,grand malt,90,150,918,Nigeria
+10950,northwest,October,2019,Jones,castle lite,180,450,888,Senegal
+10951,northeast ,November,2019,Morgan,eagle lager,170,250,746,Ghana
+10960,west,August,2019,Jones,beta malt,80,150,977,Senegal
+10962,northwest,October,2019,Jardine,trophy,150,200,955,Nigeria
+10967,southsouth,March,2019,Parent,beta malt,80,150,797,Nigeria
+10969,northeast ,May,2019,Smith,trophy,150,200,773,Benin
+10972,west,August,2019,Jones,eagle lager,170,250,832,Nigeria
+10973,southsouth,September,2019,Parent,hero,150,200,768,Togo
+10975,northeast ,November,2019,Smith,grand malt,90,150,958,Senegal
+10978,west,February,2019,Smith,castle lite,180,450,830,Togo
+10979,southsouth,March,2019,Jones,eagle lager,170,250,874,Benin
+10984,west,August,2019,Gill,budweiser,250,500,891,Benin
+10986,northwest,October,2019,Kivell,eagle lager,170,250,950,Ghana
+10991,southsouth,March,2019,Gill,budweiser,250,500,827,Ghana
+10998,northwest,October,2019,Jardine,budweiser,250,500,701,Togo
+11002,west,February,2019,Andrews,beta malt,80,150,750,Nigeria
+11004,northwest,April,2019,Thompson,trophy,150,200,702,Benin
+11008,west,August,2019,Parent,hero,150,200,760,Togo
+11014,west,February,2019,Parent,eagle lager,170,250,996,Benin
+11023,northeast ,November,2019,Andrews,beta malt,80,150,860,Togo
+11024,northcentral ,December,2019,Howard,grand malt,90,150,818,Benin
+11029,northeast ,May,2019,Morgan,hero,150,200,716,Benin
+11032,west,August,2019,Gill,trophy,150,200,799,Nigeria
+11033,southsouth,September,2019,Sorvino,budweiser,250,500,774,Togo
+11040,northwest,April,2019,Morgan,budweiser,250,500,942,Senegal
+11042,northcentral ,June,2019,Sorvino,eagle lager,170,250,945,Nigeria
+11047,northeast ,November,2019,Jardine,budweiser,250,500,727,Nigeria
+11048,northcentral ,December,2019,Jardine,castle lite,180,450,859,Togo
+11052,northwest,April,2019,Sorvino,grand malt,90,150,822,Nigeria
+11056,west,August,2019,Thompson,eagle lager,170,250,921,Ghana
+11058,northwest,October,2019,Morgan,beta malt,80,150,836,Togo
+11062,west,February,2019,Smith,castle lite,180,450,979,Nigeria
+11065,northeast ,May,2019,Gill,beta malt,80,150,800,Senegal
+11066,northcentral ,June,2019,Sorvino,grand malt,90,150,892,Ghana
+11067,Southeast,July,2019,Jones,trophy,150,200,758,Nigeria
+11069,southsouth,September,2019,Jardine,castle lite,180,450,939,Benin
+11071,northeast ,November,2019,Jones,hero,150,200,814,Ghana
+11072,northcentral ,December,2019,Morgan,beta malt,80,150,832,Nigeria
+11074,west,February,2019,Parent,trophy,150,200,825,Benin
+11075,southsouth,March,2019,Jones,budweiser,250,500,934,Senegal
+11081,southsouth,September,2019,Kivell,trophy,150,200,836,Ghana
+11087,southsouth,March,2019,Sorvino,grand malt,90,150,832,Nigeria
+11090,northcentral ,June,2019,Howard,castle lite,180,450,834,Senegal
+11096,northcentral ,December,2019,Kivell,budweiser,250,500,995,Ghana
+11098,west,February,2019,Gill,eagle lager,170,250,857,Togo
+11099,southsouth,March,2019,Sorvino,hero,150,200,938,Benin
+11100,northwest,April,2019,Thompson,beta malt,80,150,785,Senegal
+11101,northeast ,May,2019,Andrews,grand malt,90,150,910,Ghana
+11108,northcentral ,December,2019,Jones,grand malt,90,150,904,Togo
+11109,Southeast,January,2019,Andrews,trophy,150,200,912,Benin
+11110,west,February,2019,Jardine,budweiser,250,500,734,Senegal
+11115,Southeast,July,2019,Parent,grand malt,90,150,908,Senegal
+11119,northeast ,November,2019,Morgan,eagle lager,170,250,832,Benin
+11120,northcentral ,December,2019,Jones,hero,150,200,763,Senegal
+11122,west,February,2019,Kivell,grand malt,90,150,848,Nigeria
+11123,southsouth,March,2019,Smith,trophy,150,200,988,Togo
+11124,northwest,April,2019,Parent,budweiser,250,500,876,Benin
+11127,Southeast,July,2019,Jones,hero,150,200,731,Nigeria
+11132,northcentral ,December,2019,Gill,castle lite,180,450,721,Nigeria
+11134,west,February,2019,Kivell,hero,150,200,860,Benin
+11142,northwest,October,2019,Andrews,beta malt,80,150,740,Nigeria
+10105,northeast ,May,2018,Andrews,hero,150,200,836,Senegal
+10107,Southeast,July,2018,Thompson,grand malt,90,150,954,Nigeria
+10110,northwest,October,2018,Howard,castle lite,180,450,745,Senegal
+10111,northeast ,November,2018,Parent,eagle lager,170,250,861,Ghana
+10114,west,February,2018,Jones,grand malt,90,150,843,Benin
+10117,northeast ,May,2018,Parent,castle lite,180,450,837,Nigeria
+10120,west,August,2018,Parent,beta malt,80,150,731,Senegal
+10121,southsouth,September,2018,Gill,grand malt,90,150,898,Ghana
+10123,northeast ,November,2018,Jones,budweiser,250,500,859,Togo
+10124,northcentral ,December,2018,Sorvino,castle lite,180,450,857,Benin
+10127,southsouth,March,2018,Howard,beta malt,80,150,982,Nigeria
+10129,northeast ,May,2018,Gill,trophy,150,200,875,Benin
+10132,west,August,2018,Morgan,eagle lager,170,250,826,Nigeria
+10135,northeast ,November,2018,Gill,grand malt,90,150,890,Senegal
+10136,northcentral ,December,2018,Sorvino,trophy,150,200,870,Ghana
+10137,Southeast,January,2018,Thompson,budweiser,250,500,821,Nigeria
+10142,northcentral ,June,2018,Jardine,grand malt,90,150,827,Nigeria
+10144,west,August,2018,Sorvino,budweiser,250,500,835,Benin
+10146,northwest,October,2018,Andrews,eagle lager,170,250,710,Ghana
+10147,northeast ,November,2018,Jardine,hero,150,200,952,Nigeria
+10148,northcentral ,December,2018,Thompson,beta malt,80,150,891,Togo
+10154,northcentral ,June,2018,Smith,hero,150,200,766,Benin
+10156,west,August,2018,Morgan,grand malt,90,150,962,Ghana
+10158,northwest,October,2018,Parent,budweiser,250,500,776,Togo
+10160,northcentral ,December,2018,Smith,eagle lager,170,250,831,Senegal
+10163,southsouth,March,2018,Smith,grand malt,90,150,768,Togo
+10164,northwest,April,2018,Jones,trophy,150,200,736,Benin
+10166,northcentral ,June,2018,Jardine,castle lite,180,450,918,Ghana
+10169,southsouth,September,2018,Gill,beta malt,80,150,768,Benin
+10176,northwest,April,2018,Gill,beta malt,80,150,713,Ghana
+10177,northeast ,May,2018,Sorvino,grand malt,90,150,729,Nigeria
+10179,Southeast,July,2018,Andrews,budweiser,250,500,739,Benin
+10184,northcentral ,December,2018,Morgan,grand malt,90,150,892,Benin
+10188,northwest,April,2018,Sorvino,eagle lager,170,250,993,Togo
+10193,southsouth,September,2018,Andrews,budweiser,250,500,722,Togo
+10194,northwest,October,2018,Jardine,castle lite,180,450,849,Benin
+10198,west,February,2018,Andrews,grand malt,90,150,856,Togo
+10199,southsouth,March,2018,Jardine,trophy,150,200,817,Benin
+10200,northwest,April,2018,Thompson,budweiser,250,500,729,Senegal
+10201,northeast ,May,2018,Jones,castle lite,180,450,805,Ghana
+10204,west,August,2018,Parent,beta malt,80,150,831,Benin
+10206,northwest,October,2018,Smith,trophy,150,200,751,Ghana
+10209,Southeast,January,2018,Gill,eagle lager,170,250,720,Benin
+10210,west,February,2018,Sorvino,hero,150,200,777,Senegal
+10212,northwest,April,2018,Andrews,grand malt,90,150,874,Nigeria
+10213,northeast ,May,2018,Jardine,trophy,150,200,739,Togo
+10218,northwest,October,2018,Parent,beta malt,80,150,769,Togo
+10221,Southeast,January,2018,Jones,budweiser,250,500,727,Ghana
+10226,northcentral ,June,2018,Smith,grand malt,90,150,951,Ghana
+10230,northwest,October,2018,Jones,eagle lager,170,250,974,Senegal
+10233,Southeast,January,2018,Andrews,grand malt,90,150,832,Togo
+10235,southsouth,March,2018,Gill,budweiser,250,500,966,Senegal
+10240,west,August,2018,Kivell,grand malt,90,150,992,Senegal
+10242,northwest,October,2018,Gill,budweiser,250,500,975,Nigeria
+10244,northcentral ,December,2018,Thompson,eagle lager,170,250,776,Benin
+10249,northeast ,May,2018,Jardine,budweiser,250,500,838,Benin
+10250,northcentral ,June,2018,Gill,castle lite,180,450,963,Senegal
+10251,Southeast,July,2018,Sorvino,eagle lager,170,250,995,Ghana
+10252,west,August,2018,Jones,hero,150,200,941,Nigeria
+10260,northwest,April,2018,Jones,beta malt,80,150,981,Senegal
+10262,northcentral ,June,2018,Jones,trophy,150,200,885,Nigeria
+10272,northwest,April,2018,Sorvino,eagle lager,170,250,747,Nigeria
+10275,Southeast,July,2018,Howard,grand malt,90,150,875,Senegal
+10277,southsouth,September,2018,Gill,budweiser,250,500,850,Nigeria
+10279,northeast ,November,2018,Jones,eagle lager,170,250,881,Benin
+10281,Southeast,January,2018,Kivell,beta malt,80,150,708,Ghana
+10287,Southeast,July,2018,Jardine,hero,150,200,1000,Nigeria
+10290,northwest,October,2018,Jones,trophy,150,200,742,Senegal
+10293,Southeast,January,2018,Sorvino,eagle lager,170,250,773,Togo
+10295,southsouth,March,2018,Sorvino,beta malt,80,150,983,Senegal
+10297,northeast ,May,2018,Andrews,trophy,150,200,786,Nigeria
+10299,Southeast,July,2018,Jardine,castle lite,180,450,897,Benin
+10302,northwest,October,2018,Gill,beta malt,80,150,836,Nigeria
+10306,west,February,2018,Jardine,castle lite,180,450,950,Ghana
+10307,southsouth,March,2018,Thompson,eagle lager,170,250,841,Nigeria
+10308,northwest,April,2018,Jones,hero,150,200,801,Togo
+10310,northcentral ,June,2018,Howard,grand malt,90,150,721,Senegal
+10311,Southeast,July,2018,Parent,trophy,150,200,755,Ghana
+10313,southsouth,September,2018,Smith,castle lite,180,450,865,Togo
+10315,northeast ,November,2018,Jardine,hero,150,200,982,Senegal
+10316,northcentral ,December,2018,Gill,beta malt,80,150,850,Ghana
+10317,Southeast,January,2018,Sorvino,grand malt,90,150,754,Nigeria
+10319,southsouth,March,2018,Andrews,budweiser,250,500,881,Benin
+10320,northwest,April,2018,Jardine,castle lite,180,450,818,Senegal
+10321,northeast ,May,2018,Thompson,eagle lager,170,250,781,Ghana
+10335,Southeast,July,2018,Gill,eagle lager,170,250,852,Senegal
+10338,northwest,October,2018,Sorvino,grand malt,90,150,735,Togo
+10341,Southeast,January,2018,Howard,castle lite,180,450,897,Ghana
+10343,southsouth,March,2018,Gill,hero,150,200,838,Togo
+10345,northeast ,May,2018,Jones,grand malt,90,150,950,Senegal
+10350,northwest,October,2018,Sorvino,hero,150,200,917,Senegal
+10354,west,February,2018,Jardine,budweiser,250,500,750,Benin
+10356,northwest,April,2018,Jardine,eagle lager,170,250,972,Ghana
+10357,northeast ,May,2018,Gill,hero,150,200,985,Nigeria
+10363,northeast ,November,2018,Jones,eagle lager,170,250,879,Togo
+10364,northcentral ,December,2018,Morgan,hero,150,200,816,Benin
+10365,Southeast,January,2018,Howard,beta malt,80,150,803,Senegal
+10367,southsouth,March,2018,Jones,trophy,150,200,912,Nigeria
+10373,southsouth,September,2018,Kivell,grand malt,90,150,801,Togo
+10377,Southeast,January,2018,Smith,eagle lager,170,250,795,Nigeria
+10382,northcentral ,June,2018,Howard,budweiser,250,500,863,Nigeria
+10387,northeast ,November,2018,Morgan,grand malt,90,150,703,Nigeria
+10390,west,February,2018,Gill,castle lite,180,450,950,Senegal
+10391,southsouth,March,2018,Sorvino,eagle lager,170,250,949,Ghana
+10392,northwest,April,2018,Thompson,hero,150,200,724,Nigeria
+10394,northcentral ,June,2018,Jardine,grand malt,90,150,933,Benin
+10397,southsouth,September,2018,Jones,castle lite,180,450,922,Nigeria
+10403,southsouth,March,2018,Thompson,budweiser,250,500,998,Togo
+10406,northcentral ,June,2018,Jardine,hero,150,200,704,Ghana
+10408,west,August,2018,Jardine,grand malt,90,150,972,Togo
+10409,southsouth,September,2018,Gill,trophy,150,200,859,Benin
+10410,northwest,October,2018,Sorvino,budweiser,250,500,825,Senegal
+10414,west,February,2018,Thompson,beta malt,80,150,773,Benin
+10415,southsouth,March,2018,Jones,grand malt,90,150,786,Senegal
+10416,northwest,April,2018,Morgan,trophy,150,200,991,Ghana
+10417,northeast ,May,2018,Howard,budweiser,250,500,886,Nigeria
+10421,southsouth,September,2018,Jones,beta malt,80,150,778,Ghana
+10424,northcentral ,December,2018,Sorvino,budweiser,250,500,860,Benin
+10425,Southeast,January,2018,Jones,castle lite,180,450,895,Senegal
+10428,northwest,April,2018,Thompson,beta malt,80,150,765,Togo
+10431,Southeast,July,2018,Howard,budweiser,250,500,831,Ghana
+10432,west,August,2018,Parent,castle lite,180,450,879,Nigeria
+10433,southsouth,September,2018,Jones,eagle lager,170,250,756,Togo
+10434,northwest,October,2018,Smith,hero,150,200,888,Benin
+10435,northeast ,November,2018,Jones,beta malt,80,150,859,Senegal
+10440,northwest,April,2018,Smith,eagle lager,170,250,980,Senegal
+10448,northcentral ,December,2018,Howard,hero,150,200,891,Togo
+10450,west,February,2018,Gill,grand malt,90,150,797,Senegal
+10451,southsouth,March,2018,Kivell,trophy,150,200,913,Ghana
+10452,northwest,April,2018,Jones,budweiser,250,500,710,Nigeria
+10455,Southeast,July,2018,Sorvino,hero,150,200,967,Senegal
+10463,southsouth,March,2018,Jardine,beta malt,80,150,790,Togo
+10464,northwest,April,2018,Gill,grand malt,90,150,722,Benin
+10471,northeast ,November,2018,Morgan,grand malt,90,150,718,Ghana
+10472,northcentral ,December,2018,Howard,trophy,150,200,700,Nigeria
+10478,northcentral ,June,2018,Jones,grand malt,90,150,747,Togo
+10479,Southeast,July,2018,Parent,trophy,150,200,994,Benin
+10480,west,August,2018,Kivell,budweiser,250,500,982,Senegal
+10481,southsouth,September,2018,Smith,castle lite,180,450,958,Ghana
+10482,northwest,October,2018,Parent,eagle lager,170,250,943,Nigeria
+10484,northcentral ,December,2018,Smith,beta malt,80,150,852,Benin
+10487,southsouth,March,2018,Jardine,budweiser,250,500,960,Nigeria
+10494,northwest,October,2018,Morgan,budweiser,250,500,808,Benin
+10498,west,February,2018,Sorvino,beta malt,80,150,765,Togo
+10499,southsouth,March,2018,Thompson,grand malt,90,150,956,Benin
+10504,west,August,2018,Jones,hero,150,200,730,Benin
+10505,southsouth,September,2018,Morgan,beta malt,80,150,741,Senegal
+10516,west,August,2018,Gill,castle lite,180,450,735,Ghana
+10517,southsouth,September,2018,Sorvino,eagle lager,170,250,884,Nigeria
+10519,northeast ,November,2018,Andrews,beta malt,80,150,756,Benin
+10527,Southeast,July,2018,Smith,grand malt,90,150,868,Nigeria
+10530,northwest,October,2018,Gill,castle lite,180,450,900,Senegal
+10532,northcentral ,December,2018,Jones,hero,150,200,742,Nigeria
+10537,northeast ,May,2018,Morgan,castle lite,180,450,933,Nigeria
+10538,northcentral ,June,2018,Howard,eagle lager,170,250,826,Togo
+10539,Southeast,July,2018,Parent,hero,150,200,989,Benin
+10543,northeast ,November,2018,Morgan,budweiser,250,500,790,Togo
+10547,southsouth,March,2018,Smith,beta malt,80,150,712,Nigeria
+10552,west,August,2018,Sorvino,eagle lager,170,250,909,Nigeria
+10554,northwest,October,2018,Andrews,beta malt,80,150,809,Benin
+10558,west,February,2018,Kivell,castle lite,180,450,796,Togo
+10560,northwest,April,2018,Morgan,hero,150,200,982,Senegal
+10563,Southeast,July,2018,Gill,trophy,150,200,747,Togo
+10565,southsouth,September,2018,Thompson,castle lite,180,450,829,Senegal
+10566,northwest,October,2018,Andrews,eagle lager,170,250,729,Ghana
+10569,Southeast,January,2018,Andrews,grand malt,90,150,719,Benin
+10571,southsouth,March,2018,Gill,budweiser,250,500,762,Ghana
+10572,northwest,April,2018,Sorvino,castle lite,180,450,964,Nigeria
+10576,west,August,2018,Thompson,grand malt,90,150,942,Ghana
+10579,northeast ,November,2018,Howard,castle lite,180,450,703,Benin
+10581,Southeast,January,2018,Jones,hero,150,200,867,Ghana
+10587,Southeast,July,2018,Kivell,eagle lager,170,250,763,Nigeria
+10589,southsouth,September,2018,Parent,beta malt,80,150,808,Benin
+10598,northcentral ,June,2018,Gill,trophy,150,200,797,Togo
+10601,southsouth,September,2018,Morgan,eagle lager,170,250,911,Ghana
+10602,northwest,October,2018,Kivell,hero,150,200,709,Nigeria
+10605,Southeast,January,2018,Sorvino,trophy,150,200,922,Senegal
+10607,southsouth,March,2018,Andrews,castle lite,180,450,811,Nigeria
+10610,northcentral ,June,2018,Andrews,beta malt,80,150,872,Senegal
+10612,west,August,2018,Morgan,trophy,150,200,822,Nigeria
+10614,northwest,October,2018,Sorvino,castle lite,180,450,890,Benin
+10616,northcentral ,December,2018,Sorvino,hero,150,200,824,Ghana
+10617,Southeast,January,2018,Thompson,beta malt,80,150,916,Nigeria
+10622,northcentral ,June,2018,Jardine,eagle lager,170,250,889,Nigeria
+10627,northeast ,November,2018,Jardine,budweiser,250,500,795,Nigeria
+10636,west,August,2018,Jardine,eagle lager,170,250,846,Ghana
+10640,northcentral ,December,2018,Andrews,trophy,150,200,737,Senegal
+10643,southsouth,March,2018,Jones,eagle lager,170,250,874,Togo
+10649,southsouth,September,2018,Jones,castle lite,180,450,815,Benin
+10653,Southeast,January,2018,Kivell,grand malt,90,150,702,Togo
+10659,Southeast,July,2018,Sorvino,beta malt,80,150,964,Benin
+10660,west,August,2018,Jardine,grand malt,90,150,891,Senegal
+10663,northeast ,November,2018,Gill,castle lite,180,450,751,Togo
+10664,northcentral ,December,2018,Gill,eagle lager,170,250,827,Benin
+10669,northeast ,May,2018,Sorvino,budweiser,250,500,802,Benin
+10671,Southeast,July,2018,Sorvino,eagle lager,170,250,824,Ghana
+10672,west,August,2018,Thompson,hero,150,200,730,Nigeria
+10676,northcentral ,December,2018,Andrews,budweiser,250,500,836,Ghana
+10680,northwest,April,2018,Jones,beta malt,80,150,928,Senegal
+10682,northcentral ,June,2018,Jardine,trophy,150,200,946,Nigeria
+10687,northeast ,November,2018,Parent,beta malt,80,150,810,Nigeria
+10689,Southeast,January,2018,Smith,trophy,150,200,813,Benin
+10690,west,February,2018,Jones,budweiser,250,500,998,Senegal
+10693,northeast ,May,2018,Parent,hero,150,200,866,Togo
+10695,Southeast,July,2018,Smith,grand malt,90,150,905,Senegal
+10701,Southeast,January,2018,Jardine,beta malt,80,150,753,Ghana
+10705,northeast ,May,2018,Gill,castle lite,180,450,912,Senegal
+10711,northeast ,November,2018,Gill,budweiser,250,500,748,Ghana
+10714,west,February,2018,Andrews,hero,150,200,965,Benin
+10715,southsouth,March,2018,Jardine,beta malt,80,150,728,Senegal
+10716,northwest,April,2018,Jardine,grand malt,90,150,792,Ghana
+10717,northeast ,May,2018,Andrews,trophy,150,200,878,Nigeria
+10718,northcentral ,June,2018,Jones,budweiser,250,500,886,Togo
+10719,Southeast,July,2018,Morgan,castle lite,180,450,995,Benin
+10721,southsouth,September,2018,Sorvino,hero,150,200,866,Ghana
+10722,northwest,October,2018,Gill,beta malt,80,150,987,Nigeria
+10724,northcentral ,December,2018,Thompson,trophy,150,200,969,Benin
+10725,Southeast,January,2018,Andrews,budweiser,250,500,718,Senegal
+10729,northeast ,May,2018,Jardine,beta malt,80,150,710,Benin
+10731,Southeast,July,2018,Sorvino,trophy,150,200,738,Ghana
+10733,southsouth,September,2018,Andrews,castle lite,180,450,772,Togo
+10734,northwest,October,2018,Jardine,eagle lager,170,250,762,Benin
+10739,southsouth,March,2018,Parent,budweiser,250,500,941,Benin
+10744,west,August,2018,Gill,grand malt,90,150,859,Benin
+10745,southsouth,September,2018,Sorvino,trophy,150,200,962,Senegal
+10747,northeast ,November,2018,Andrews,castle lite,180,450,989,Nigeria
+10753,northeast ,May,2018,Parent,budweiser,250,500,722,Togo
+10754,northcentral ,June,2018,Jones,castle lite,180,450,778,Benin
+10757,southsouth,September,2018,Morgan,beta malt,80,150,939,Nigeria
+10760,northcentral ,December,2018,Kivell,budweiser,250,500,886,Senegal
+10761,Southeast,January,2018,Smith,castle lite,180,450,828,Ghana
+10767,Southeast,July,2018,Jardine,budweiser,250,500,769,Nigeria
+10768,west,August,2018,Andrews,castle lite,180,450,782,Togo
+10769,southsouth,September,2018,Howard,eagle lager,170,250,755,Benin
+10773,Southeast,January,2018,Jones,trophy,150,200,821,Togo
+10774,west,February,2018,Morgan,budweiser,250,500,768,Benin
+10779,Southeast,July,2018,Thompson,grand malt,90,150,881,Benin
+10781,southsouth,September,2018,Jardine,budweiser,250,500,843,Ghana
+10785,Southeast,January,2018,Gill,beta malt,80,150,952,Senegal
+10789,northeast ,May,2018,Jardine,castle lite,180,450,864,Benin
+10795,northeast ,November,2018,Jones,budweiser,250,500,718,Senegal
+10796,northcentral ,December,2018,Smith,castle lite,180,450,744,Ghana
+10797,Southeast,January,2018,Jones,eagle lager,170,250,959,Nigeria
+10798,west,February,2018,Morgan,hero,150,200,976,Togo
+10804,west,August,2018,Gill,eagle lager,170,250,802,Benin
+10806,northwest,October,2018,Jones,beta malt,80,150,914,Ghana
+10807,northeast ,November,2018,Sorvino,grand malt,90,150,821,Nigeria
+10808,northcentral ,December,2018,Jardine,trophy,150,200,804,Togo
+10809,Southeast,January,2018,Andrews,budweiser,250,500,946,Benin
+10812,northwest,April,2018,Gill,hero,150,200,901,Nigeria
+10815,Southeast,July,2018,Morgan,trophy,150,200,992,Senegal
+10817,southsouth,September,2018,Sorvino,castle lite,180,450,828,Nigeria
+10818,northwest,October,2018,Gill,eagle lager,170,250,758,Togo
+10822,west,February,2018,Jardine,trophy,150,200,701,Nigeria
+10825,northeast ,May,2018,Jones,eagle lager,170,250,874,Senegal
+10831,northeast ,November,2018,Thompson,castle lite,180,450,961,Ghana
+10832,northcentral ,December,2018,Andrews,eagle lager,170,250,752,Nigeria
+10836,northwest,April,2018,Jardine,trophy,150,200,870,Ghana
+10841,southsouth,September,2018,Jardine,beta malt,80,150,910,Ghana
+10846,west,February,2018,Parent,eagle lager,170,250,818,Ghana
+10852,west,August,2018,Sorvino,castle lite,180,450,708,Nigeria
+10853,southsouth,September,2018,Jones,eagle lager,170,250,861,Togo
+10854,northwest,October,2018,Andrews,hero,150,200,798,Benin
+10856,northcentral ,December,2018,Thompson,grand malt,90,150,950,Ghana
+10858,west,February,2018,Morgan,budweiser,250,500,767,Togo
+10859,southsouth,March,2018,Howard,castle lite,180,450,898,Benin
+10862,northcentral ,June,2018,Smith,beta malt,80,150,879,Nigeria
+10863,Southeast,July,2018,Jones,grand malt,90,150,872,Togo
+10867,northeast ,November,2018,Kivell,eagle lager,170,250,997,Nigeria
+10868,northcentral ,December,2018,Smith,hero,150,200,842,Togo
+10872,northwest,April,2018,Jones,budweiser,250,500,848,Nigeria
+10873,northeast ,May,2018,Sorvino,castle lite,180,450,924,Togo
+10875,Southeast,July,2018,Andrews,hero,150,200,771,Senegal
+10876,west,August,2018,Howard,beta malt,80,150,862,Ghana
+10878,northwest,October,2018,Gill,trophy,150,200,923,Togo
+10880,northcentral ,December,2018,Jones,castle lite,180,450,766,Senegal
+10883,southsouth,March,2018,Sorvino,beta malt,80,150,869,Togo
+10888,west,August,2018,Jardine,eagle lager,170,250,905,Togo
+10890,northwest,October,2018,Andrews,beta malt,80,150,926,Senegal
+10893,Southeast,January,2018,Sorvino,budweiser,250,500,878,Togo
+10896,northwest,April,2018,Jardine,hero,150,200,818,Ghana
+10897,northeast ,May,2018,Thompson,beta malt,80,150,852,Nigeria
+10900,west,August,2018,Howard,budweiser,250,500,952,Senegal
+10902,northwest,October,2018,Jones,eagle lager,170,250,952,Nigeria
+10903,northeast ,November,2018,Smith,hero,150,200,777,Togo
+10905,Southeast,January,2018,Morgan,grand malt,90,150,934,Senegal
+10907,southsouth,March,2018,Parent,budweiser,250,500,793,Nigeria
+10912,west,August,2018,Smith,grand malt,90,150,855,Nigeria
+10913,southsouth,September,2018,Jones,trophy,150,200,835,Togo
+10916,northcentral ,December,2018,Andrews,eagle lager,170,250,702,Ghana
+10918,west,February,2018,Gill,beta malt,80,150,997,Togo
+10924,west,August,2018,Sorvino,hero,150,200,965,Benin
+10926,northwest,October,2018,Sorvino,grand malt,90,150,820,Ghana
+10933,northeast ,May,2018,Morgan,grand malt,90,150,864,Togo
+10935,Southeast,July,2018,Sorvino,budweiser,250,500,796,Senegal
+10938,northwest,October,2018,Thompson,hero,150,200,957,Togo
+10942,west,February,2018,Andrews,budweiser,250,500,998,Nigeria
+10945,northeast ,May,2018,Sorvino,hero,150,200,849,Senegal
+10946,northcentral ,June,2018,Jones,beta malt,80,150,938,Ghana
+10948,west,August,2018,Jardine,trophy,150,200,728,Togo
+10952,northcentral ,December,2018,Howard,hero,150,200,989,Nigeria
+10955,southsouth,March,2018,Smith,trophy,150,200,887,Senegal
+10957,northeast ,May,2018,Jardine,castle lite,180,450,795,Nigeria
+10961,southsouth,September,2018,Andrews,grand malt,90,150,955,Ghana
+10963,northeast ,November,2018,Thompson,budweiser,250,500,765,Togo
+10970,northcentral ,June,2018,Jones,budweiser,250,500,767,Senegal
+10974,northwest,October,2018,Kivell,beta malt,80,150,958,Benin
+10980,northwest,April,2018,Sorvino,hero,150,200,954,Senegal
+10981,northeast ,May,2018,Jardine,beta malt,80,150,919,Ghana
+10982,northcentral ,June,2018,Andrews,grand malt,90,150,796,Nigeria
+10983,Southeast,July,2018,Howard,trophy,150,200,773,Togo
+10985,southsouth,September,2018,Gill,castle lite,180,450,778,Senegal
+10987,northeast ,November,2018,Jones,hero,150,200,840,Nigeria
+10988,northcentral ,December,2018,Morgan,beta malt,80,150,821,Togo
+10989,Southeast,January,2018,Kivell,grand malt,90,150,720,Benin
+10992,northwest,April,2018,Sorvino,castle lite,180,450,792,Nigeria
+10993,northeast ,May,2018,Thompson,eagle lager,170,250,885,Togo
+10995,Southeast,July,2018,Jardine,beta malt,80,150,977,Senegal
+10997,southsouth,September,2018,Andrews,trophy,150,200,932,Nigeria
+10999,northeast ,November,2018,Gill,castle lite,180,450,977,Benin
+11000,northcentral ,December,2018,Sorvino,eagle lager,170,250,977,Senegal
+11003,southsouth,March,2018,Jardine,grand malt,90,150,961,Togo
+11005,northeast ,May,2018,Jones,budweiser,250,500,984,Senegal
+11006,northcentral ,June,2018,Morgan,castle lite,180,450,861,Ghana
+11010,northwest,October,2018,Smith,grand malt,90,150,728,Senegal
+11012,northcentral ,December,2018,Morgan,budweiser,250,500,966,Nigeria
+11013,Southeast,January,2018,Jones,castle lite,180,450,732,Togo
+11016,northwest,April,2018,Smith,beta malt,80,150,785,Ghana
+11017,northeast ,May,2018,Parent,grand malt,90,150,891,Nigeria
+11020,west,August,2018,Jones,castle lite,180,450,880,Senegal
+11021,southsouth,September,2018,Sorvino,eagle lager,170,250,921,Ghana
+11025,Southeast,January,2018,Gill,trophy,150,200,906,Senegal
+11026,west,February,2018,Gill,budweiser,250,500,810,Ghana
+11028,northwest,April,2018,Jones,eagle lager,170,250,703,Togo
+11035,northeast ,November,2018,Andrews,eagle lager,170,250,928,Senegal
+11038,west,February,2018,Andrews,grand malt,90,150,849,Togo
+11041,northeast ,May,2018,Kivell,castle lite,180,450,930,Ghana
+11043,Southeast,July,2018,Gill,hero,150,200,775,Togo
+11044,west,August,2018,Sorvino,beta malt,80,150,729,Benin
+11046,northwest,October,2018,Andrews,trophy,150,200,735,Ghana
+11049,Southeast,January,2018,Andrews,eagle lager,170,250,792,Benin
+11050,west,February,2018,Jardine,hero,150,200,874,Senegal
+11053,northeast ,May,2018,Jones,trophy,150,200,912,Togo
+11054,northcentral ,June,2018,Andrews,budweiser,250,500,759,Benin
+11055,Southeast,July,2018,Jardine,castle lite,180,450,858,Senegal
+11064,northwest,April,2018,Jardine,hero,150,200,737,Benin
+11068,west,August,2018,Andrews,budweiser,250,500,725,Togo
+11070,northwest,October,2018,Thompson,eagle lager,170,250,851,Senegal
+11073,Southeast,January,2018,Howard,grand malt,90,150,927,Togo
+11078,northcentral ,June,2018,Morgan,hero,150,200,743,Togo
+11079,Southeast,July,2018,Jones,beta malt,80,150,919,Benin
+11082,northwest,October,2018,Smith,budweiser,250,500,793,Nigeria
+11084,northcentral ,December,2018,Gill,eagle lager,170,250,847,Benin
+11085,Southeast,January,2018,Smith,hero,150,200,993,Senegal
+11088,northwest,April,2018,Jardine,trophy,150,200,763,Togo
+11093,southsouth,September,2018,Kivell,beta malt,80,150,835,Togo
+11095,northeast ,November,2018,Morgan,trophy,150,200,995,Senegal
+11105,southsouth,September,2018,Jardine,eagle lager,170,250,881,Senegal
+11106,northwest,October,2018,Gill,hero,150,200,973,Ghana
+11107,northeast ,November,2018,Sorvino,beta malt,80,150,786,Nigeria
+11111,southsouth,March,2018,Thompson,castle lite,180,450,977,Ghana
+11112,northwest,April,2018,Jones,eagle lager,170,250,711,Nigeria
+11113,northeast ,May,2018,Morgan,hero,150,200,727,Togo
+11114,northcentral ,June,2018,Howard,beta malt,80,150,732,Benin
+11116,west,August,2018,Jones,trophy,150,200,767,Ghana
+11121,Southeast,January,2018,Parent,beta malt,80,150,842,Ghana
+11128,west,August,2018,Sorvino,beta malt,80,150,779,Togo
+11130,northwest,October,2018,Andrews,trophy,150,200,953,Senegal
+11137,northeast ,May,2018,Kivell,trophy,150,200,974,Nigeria
+11139,Southeast,July,2018,Gill,castle lite,180,450,907,Benin
+11140,west,August,2018,Sorvino,eagle lager,170,250,949,Senegal
+11143,northeast ,November,2018,Jardine,grand malt,90,150,962,Togo
+11144,northcentral ,December,2018,Jardine,trophy,150,200,892,Benin
+11146,west,February,2018,Jones,castle lite,180,450,939,Ghana
