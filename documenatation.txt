@@ -6,3 +6,8 @@ got populated after rerunning the code twice.
 in order to avoid that, I had to write the formula in full with out using the column name.
 
 Naming columns with title case doesn't work in postgresql
+
+We have the same sales representative across all countries. same for regions.
+
+Pandas read sql cannot recognize temporary tables. So i have to make the table permanent 
+using the CREATE TABLE clause.
