@@ -11,3 +11,12 @@ We have the same sales representative across all countries. same for regions.
 
 Pandas read sql cannot recognize temporary tables. So i have to make the table permanent 
 using the CREATE TABLE clause.
+
+you cannot use sql magic with database library connector. It only works with sqlalchemy connection
+
+with pandas read sql query, you can switch between database connector string and sqlalchemy 
+connector string. 
+
+Making Notes:
+1. Student can talk about profit for the yearly overview
+2. Student can talk about the highest quantity ever sold. Trophy brand in 2019
