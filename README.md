@@ -3,8 +3,8 @@
 ### Watch the class Video
 * [Part 1 Introductory Class](https://youtu.be/rsZd7PqbOhk)
 * [Part 2 International Breweries EDA](https://youtu.be/2fQtBOlcP6w)
-* [View Introductory Notebook](https://github.com/TelRich/International-Breweries-Analysis-with-SQL-and-Python/blob/main/intro.ipynb)
-* [View Project Notebook](https://nbviewer.org/github/TelRich/International-Breweries-Analysis-with-SQL-and-Python/blob/main/brew.ipynb)
+[View Introductory Notebook](https://github.com/TelRich/International-Breweries-Analysis-with-SQL-and-Python/blob/main/intro.ipynb)
+[View Project Notebook](https://nbviewer.org/github/TelRich/International-Breweries-Analysis-with-SQL-and-Python/blob/main/brew.ipynb)
 
 
 ### Introduction
